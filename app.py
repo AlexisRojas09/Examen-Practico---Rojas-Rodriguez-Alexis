@@ -8,7 +8,7 @@ import streamlit as st
 st.set_page_config(page_title="Proyecto Estadistica", layout="wide")
 
 # Título de la app :)
-st.title("EXÁMEN PRÁCTICO 2DO PARCIAL - ROJAS RODRÍGUEZ ALEXIS")
+st.title("EXÁMEN PRÁCTICO 2DO PARCIAL - ROJAS RODRÍGUEZ ALEXIS 6IV6")
 
 # Explico de forma simple qué hace la app y por qué la armé así :D
 st.write("""
